@@ -1,4 +1,4 @@
-# Artifact 1 - Bank Credit Scoring Governance Case Study  
+# System 1 - Bank Credit Scoring Governance Case Study  
 
 ## Purpose	
 Predicts likelihood of default; the prediction drives loan approval/denial, interest rate, and credit limit decisions.
