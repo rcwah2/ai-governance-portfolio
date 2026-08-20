@@ -1,36 +1,37 @@
-# AI Governance Portfolio
+# Artifact 1: AI System Inventory
 
-Working artifacts documenting hands-on AI governance practice — inventories, impact assessments, policy mappings, and incident playbooks built against real and hypothetical AI systems, with reasoning defensible under scrutiny, not just templates filled in.
+This artifact demonstrates how AI systems can be identified, classified, and documented before deeper impact assessment or governance controls are applied.
 
-Each artifact is paired with a companion writeup on [Substack](https://rwahai.substack.com) walking through the reasoning behind it, and summarized on [LinkedIn](https://www.linkedin/in/raymondwah).
+The goal is not simply to create an inventory list. Each system is examined in the context in which it operates, including its purpose, affected stakeholders, jurisdiction, risk tier, decision impact, human oversight, and applicable governance considerations.
 
-## Why this repo exists
+## Completed System Inventories
 
-Most AI governance portfolios show the finished document. This one is built to show the reasoning underneath it — every risk tier, jurisdiction call, and threshold here was argued through and pressure-tested, not just filled into a template. If you're reviewing this as part of a hiring process: ask me to defend any number in here. That's the point.
+### 1. Bank Credit-Scoring Model
 
-## Artifacts
+A hypothetical global bank credit-scoring system used to examine AI classification, risk, jurisdiction, and governance requirements.
 
-| # | Artifact | Status | Folder | Companion Post |
-|---|---|---|---|---|
-| 1 | AI System Inventory | In progress (1 of ~8 systems complete) | [`01-system-inventory`](./01-system-inventory) | [Substack →](https://rwahai.substack.com) |
-| 2 | Impact Assessment (high-risk use case) | Planned | `02-impact-assessment` | — |
-| 3 | Policy-to-Controls Translation Matrix | Planned | `03-policy-controls-matrix` | — |
-| 4 | Bias Audit (hands-on, dataset-based) | Planned | `04-bias-audit` | — |
-| 5 | Agent Policy + Agent Charter Pair | Planned | `05-agent-policy-charter` | — |
-| 6 | Vendor Due-Diligence Questionnaire | Planned | `06-vendor-due-diligence` | — |
-| 7 | Incident Response Playbook | Planned | `07-incident-response-playbook` | — |
-| 8 | Cross-Framework Mapping (NIST/EU AI Act/ISO 42001/OECD) | Planned | `08-cross-framework-mapping` | — |
-| 9 | Public Thought Leadership | Ongoing | — | [Substack](https://rwahai.substack.com) · [LinkedIn](https://www.linkedin/en/raymondwah) |
-| 10 | Facilitated Work Evidence | Planned | `10-facilitated-work` | — |
+[View inventory →](01-bank-credit-score/)
 
-## How this repo is organized
+### 2. nH Predict
 
-Each artifact folder contains:
-- `README.md` — the artifact itself
-- `reasoning.md` — where useful, the "why" behind non-obvious calls (thresholds, tier boundaries, exclusions), so a reviewer can see the argument, not just the conclusion
+A healthcare algorithm used in Medicare Advantage skilled nursing facility coverage decisions, examined through public reporting, regulatory guidance, and pending litigation.
 
-## About
+[View inventory →](02-nh-predict/)
 
-Built by Raymond Wah as part of a deliberate practice program in AI governance — one artifact at a time, published as I go rather than all at once.
+### 3. LumineticsCore
 
-Connect: [LinkedIn](https://www.linkedin.com/in/raymondwah/) · [Substack](https://rwahai.substack.com)
+An autonomous AI system used for diabetic retinopathy screening, examined through the lens of clinical autonomy, human oversight, risk classification, and healthcare governance.
+
+[View inventory →](03-lumineticscore/)
+
+## Why multiple systems?
+
+An AI inventory methodology should work across different industries, levels of autonomy, regulatory environments, and types of decision-making.
+
+These examples are intended to pressure-test the approach rather than demonstrate only one favorable use case.
+
+## Portfolio Context
+
+This system inventory is the first artifact in a broader AI governance portfolio covering impact assessment, policy-to-controls mapping, governance controls, vendor risk, incident response, and related governance practices.
+
+[Return to AI Governance Portfolio →](../)
