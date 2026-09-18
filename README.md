@@ -13,7 +13,7 @@ Most AI governance portfolios show the finished document. This one is built to s
 | # | Artifact | Status | Folder | Companion Post |
 |---|---|---|---|---|
 | 1 | AI System Inventory | In progress — 3 systems completed | [01-system-inventory](01-system-inventory/) | [Bank Credit-Scoring →](https://rwahai.substack.com/p/artifact-1-ai-system-inventory-a)<br>[nH Predict →](https://rwahai.substack.com/p/artifact-2-ai-system-inventory-healthcare)<br>[LumineticsCore →](https://rwahai.substack.com/p/artifact-3-ai-system-inventory-autonomous) |
-| 2 | Impact Assessment (high-risk use case) | Planned | `02-impact-assessment` | — |
+| 2 | Impact Assessment (LumineticsCore) | Published | [02-impact-assessment](02-impact-assessment/) | [LumineticsCore Impact Assessment →](https://rwahai.substack.com/p/ai-impact-assessment-system-3-autonomous) |
 | 3 | Policy-to-Controls Translation Matrix | Planned | `03-policy-controls-matrix` | — |
 | 4 | Bias Audit (hands-on, dataset-based) | Planned | `04-bias-audit` | — |
 | 5 | Agent Policy + Agent Charter Pair | Planned | `05-agent-policy-charter` | — |
