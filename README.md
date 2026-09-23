@@ -2,7 +2,7 @@
 
 Working artifacts documenting hands-on AI governance practice — inventories, impact assessments, policy mappings, and incident playbooks built against real and hypothetical AI systems, with reasoning defensible under scrutiny, not just templates filled in.
 
-Each artifact is paired with a companion writeup on [Substack](https://rwahai.substack.com) walking through the reasoning behind it, and summarized on [LinkedIn](https://www.linkedin/in/raymondwah).
+Each artifact is paired with a companion writeup on [Substack](https://rwahai.substack.com) walking through the reasoning behind it, and summarized on [LinkedIn](https://www.linkedin.com/in/raymondwah/).
 
 ## Why this repo exists
 
@@ -20,7 +20,7 @@ Most AI governance portfolios show the finished document. This one is built to s
 | 6 | Vendor Due-Diligence Questionnaire | Planned | `06-vendor-due-diligence` | — |
 | 7 | Incident Response Playbook | Planned | `07-incident-response-playbook` | — |
 | 8 | Cross-Framework Mapping (NIST/EU AI Act/ISO 42001/OECD) | Planned | `08-cross-framework-mapping` | — |
-| 9 | Public Thought Leadership | Ongoing | — | [Substack](https://rwahai.substack.com) · [LinkedIn](https://www.linkedin/en/raymondwah) |
+| 9 | Public Thought Leadership | Ongoing | — | [Substack](https://rwahai.substack.com) · [LinkedIn](https://www.linkedin.com/in/raymondwah/) |
 | 10 | Facilitated Work Evidence | Planned | `10-facilitated-work` | — |
 
 ## How this repo is organized
