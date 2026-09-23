@@ -34,3 +34,9 @@ Each artifact folder contains:
 Built by Raymond Wah as part of a deliberate practice program in AI governance — one artifact at a time, published as I go rather than all at once.
 
 Connect: [LinkedIn](https://www.linkedin.com/in/raymondwah/) · [Substack](https://rwahai.substack.com)
+
+## License
+
+Copyright (c) 2026 Lissome Technology Consulting.
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it, including for commercial purposes, provided you give appropriate credit to Lissome Technology Consulting, link to the license, and indicate if changes were made. See [LICENSE](LICENSE) for the full terms.
