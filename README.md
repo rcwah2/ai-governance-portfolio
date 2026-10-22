@@ -2,7 +2,7 @@
 
 Working artifacts documenting hands-on AI governance practice — inventories, impact assessments, policy mappings, and incident playbooks built against real and hypothetical AI systems, with reasoning defensible under scrutiny, not just templates filled in.
 
-Each artifact is paired with a companion writeup on [Substack](https://rwahai.substack.com) walking through the reasoning behind it, and summarized on [LinkedIn](https://www.linkedin.com/in/raymondwah/).
+Each artifact is published as an article in the [AI Governance Portfolio series on Substack](https://rwahai.substack.com) walking through the reasoning behind it, and summarized on [LinkedIn](https://www.linkedin.com/in/raymondwah/).
 
 ## Why this repo exists
 
@@ -10,11 +10,11 @@ Most AI governance portfolios show the finished document. This one is built to s
 
 ## Artifacts
 
-| # | Artifact | Status | Folder | Companion Post |
+| # | Artifact | Status | Folder | Published Article |
 |---|---|---|---|---|
 | 1 | AI System Inventory | In progress — 3 systems completed | [01-system-inventory](01-system-inventory/) | [Bank Credit-Scoring →](https://rwahai.substack.com/p/artifact-1-ai-system-inventory-a)<br>[nH Predict →](https://rwahai.substack.com/p/artifact-2-ai-system-inventory-healthcare)<br>[LumineticsCore →](https://rwahai.substack.com/p/artifact-3-ai-system-inventory-autonomous) |
 | 2 | Impact Assessment (LumineticsCore) | Published | [02-impact-assessment](02-impact-assessment/) | [LumineticsCore Impact Assessment →](https://rwahai.substack.com/p/ai-impact-assessment-system-3-autonomous) |
-| 3 | Policy-to-Controls Translation Matrix | Planned | `03-policy-controls-matrix` | — |
+| 3 | Policy-to-Controls Translation Matrix | Published | [03-policy-controls-matrix](03-policy-controls-matrix/) | [Policy-to-Controls Matrix →](https://rwahai.substack.com/p/ai-policy-to-controls-matrix-system) |
 | 4 | Bias Audit (hands-on, dataset-based) | Planned | `04-bias-audit` | — |
 | 5 | Agent Policy + Agent Charter Pair | Planned | `05-agent-policy-charter` | — |
 | 6 | Vendor Due-Diligence Questionnaire | Planned | `06-vendor-due-diligence` | — |

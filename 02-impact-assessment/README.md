@@ -111,12 +111,12 @@ The impact and risk assessment begins to tell me why those characteristics matte
 
 Part 7 — What comes next?
 
-The next artifact moves from understanding consequences to examining what the system is actually capable of doing and the authority it has been given.
+The next artifact moves from understanding consequences to translating policy commitments into operational controls for this use case.
 
-Artifact 3 — Authority, Capability & Autonomy Assessment
+Artifact 3 — Policy-to-Controls Translation Matrix
 
 The central question becomes:
 
-What can this AI system actually do, what authority has it been given, and where should the boundaries be?
+If the organization has policies covering human oversight, patient safety, performance monitoring, incident response, and accountability, what controls would put those commitments into practice for this system?
 
-That begins moving the portfolio from understanding risk toward determining what governance controls may be appropriate.
+That begins moving the portfolio from understanding risk toward governing the workflow itself. See [03-policy-controls-matrix](../03-policy-controls-matrix/).
